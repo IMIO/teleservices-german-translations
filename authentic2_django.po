@@ -1354,7 +1354,7 @@ msgstr "Sie können es erneut versuchen oder ein Benutzerkonto erstellen. · Vou
 
 #: src/authentic2/forms/fields.py:62
 msgid "Both passwords must match."
-msgstr "Les deux mots de passe doivent être identiques."
+msgstr "Beide Passwörter müssen übereinstimmen. · Les deux mots de passe doivent être identiques."
 
 #: src/authentic2/forms/fields.py:63
 msgid "Passwords match."
@@ -1378,7 +1378,7 @@ msgstr "Neues Passwort · Nouveau mot de passe"
 
 #: src/authentic2/forms/passwords.py:136 src/authentic2/forms/passwords.py:150
 msgid "New password confirmation"
-msgstr "Bestätige neues Passwort · Confirmation du nouveau mot de passe"
+msgstr "Bestätigung des neuen Passworts · Confirmation du nouveau mot de passe"
 
 #: src/authentic2/forms/passwords.py:141 src/authentic2/forms/passwords.py:156
 msgid "New password must differ from old password"
@@ -4000,7 +4000,7 @@ msgstr "Ablauf · Expiration"
 #: src/authentic2/passwords.py:96
 #, python-format
 msgid "%s characters"
-msgstr "%s Zeichen/caractères"
+msgstr "%s Zeichen · caractères"
 
 #: src/authentic2/passwords.py:100
 msgid "1 lowercase letter"
@@ -4012,7 +4012,7 @@ msgstr "1 Ziffer · 1 chiffre"
 
 #: src/authentic2/passwords.py:106
 msgid "1 uppercase letter"
-msgstr "1 majuscule"
+msgstr "1 Großbuchstabe · majuscule"
 
 #: src/authentic2/passwords.py:119
 msgid "This password is not accepted."
@@ -4024,7 +4024,7 @@ msgid ""
 "In order to create a secure password, please use at least: <span class=\"a2-"
 "password-policy-container\">%s</span>"
 msgstr ""
-"Für die Passwortsicherheit haben Sie bitte mindestens\n"
+"Zur Sicherheit muss das Passwort mindestens über diese Kriterien verfügen :\n"
 "Pour la sécurité du mot de passe veuillez avoir a minima :<span class=\"a2-"
 "password-policy-container\">%s</span>"
 
