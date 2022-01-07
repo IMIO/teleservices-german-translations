@@ -1374,7 +1374,7 @@ msgstr "E-Mail Adresse oder Benutzername · E-Mail ou identifiant"
 
 #: src/authentic2/forms/passwords.py:135 src/authentic2/forms/passwords.py:149
 msgid "New password"
-msgstr "Neues Kennwort · Nouveau mot de passe"
+msgstr "Neues Passwort · Nouveau mot de passe"
 
 #: src/authentic2/forms/passwords.py:136 src/authentic2/forms/passwords.py:150
 msgid "New password confirmation"
@@ -1386,7 +1386,7 @@ msgstr "Das neue Passwort muss sich vom alten unterscheiden. · Le nouveau mot d
 
 #: src/authentic2/forms/passwords.py:148
 msgid "Old password"
-msgstr "Altes Kennwort · Ancien mot de passe"
+msgstr "Altes Passwort · Ancien mot de passe"
 
 #: src/authentic2/forms/profile.py:41
 msgid "Password is invalid"
@@ -3738,16 +3738,16 @@ msgstr "Bestätigen · Valider"
 #: src/authentic2/manager/user_views.py:572
 #, python-format
 msgid "New password sent to %s"
-msgstr "Un nouveau mot de passe a été envoyé par E-Mail à %s."
+msgstr "Ein neues Passwort wurde per E-Mail an folgende Adresse geschickt : %s."
 
 #: src/authentic2/manager/user_views.py:574
 msgid "New password set"
-msgstr "Nouveau mot de passe défini"
+msgstr "Neues Passwort festgelegt."
 
 #: src/authentic2/manager/user_views.py:599
 #, python-format
 msgid "A mail was sent to %s to verify it."
-msgstr "Un courrier électronique a été envoyé à %s pour la vérifier."
+msgstr "Eine E-Mail wurde an  %s um die E-Mail-Adresse zu überprüfen."
 
 #: src/authentic2/manager/user_views.py:684
 #, python-brace-format
@@ -5238,8 +5238,8 @@ msgstr ""
 "Pour modifier votre mot de passe vous devez fournir votre mot de passe "
 "actuel ainsi que le nouveau, puis confirmer ce dernier."
 "---"
-"Um Ihr Passwort zu ändern, müssen Sie Ihr Passwort angeben"
-"aktuelle sowie die neue, dann letztere bestätigen."
+"Um Ihr Passwort zu ändern, geben Sie bitte das aktuelle Passwort an,"
+"anschließend das neue, und bestätigen Sie dieses.."
 
 #: src/authentic2/templates/registration/password_change_form.html:21
 msgid "You are going to define your account password."
@@ -5669,7 +5669,7 @@ msgstr ""
 
 #: src/authentic2/views.py:816
 msgid "Enter new password"
-msgstr "Geben Sie ein neues Kennwort ein · Entrez un nouveau mot de passe"
+msgstr "Geben Sie ein neues Passwort ein · Entrez un nouveau mot de passe"
 
 #: src/authentic2/views.py:923
 msgid ""
