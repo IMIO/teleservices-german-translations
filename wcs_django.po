@@ -4835,7 +4835,7 @@ msgstr "Entwurf löschen · Supprimer le brouillon"
 #: forms/root.py
 msgid "You need a stronger authentication level to fill this form."
 msgstr ""
-"Sie müssen sich mit einer stärkeren Authentifizierung anmelden, um auf dieses Formular zuzugreifen."
+"Sie müssen sich mit einer stärkeren Authentifizierung anmelden, um auf dieses Formular zuzugreifen. \n"
 "Vous devez vous connecter avec une authentification plus forte pour accéder à ce formulaire."
 
 #: forms/root.py
